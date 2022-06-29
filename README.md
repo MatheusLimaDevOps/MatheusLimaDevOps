@@ -1,12 +1,10 @@
 ### Hello!! My name is Matheus Lima!
+<br>
+<div>  
 
-
-
-
-<div>
-  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLimaDevOps&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusLimaDevOps&hide=contribs,prs&show_icons=true&theme=dark)
+
 </div>
 
 + 🔭 I’m currently working on DevOps
